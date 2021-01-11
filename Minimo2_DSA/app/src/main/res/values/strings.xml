@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Minimo2_DSA</string>
+    <string name="btnuser">Send</string>
+    <string name="barra">User</string>
+    <string name="error">ERROR al procesar la petición</string>
+    <string name="cargando">Loading</string>
+    <string name="lenguaje">Language</string>
+    <string name="repoName">Repositori</string>
+    <string name="Repositorios">Repositorios:</string>
+    <string name="FollowersString">Followers:</string>
+    <string name="FollowingString">Following:</string>
+    <string name="Username">Username</string>
+</resources>
